@@ -1,0 +1,24 @@
+{
+  "name": "madhureshwar-api",
+  "version": "1.0.0",
+  "description": "A nodejs api for AWS mediastore",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiren3897/madhureshwar-api.git"
+  },
+  "author": "Hiren Rathod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hiren3897/madhureshwar-api/issues"
+  },
+  "homepage": "https://github.com/hiren3897/madhureshwar-api#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1319.0",
+    "express": "^4.18.2",
+    "multer": "^1.4.5-lts.1"
+  }
+}
